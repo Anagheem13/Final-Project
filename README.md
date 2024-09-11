@@ -1,4 +1,4 @@
-🚀 Generate HDL Code from Frame-Based Models by Using Neighborhood Modeling Methods
+# 🚀 Generate HDL Code from Frame-Based Models by Using Neighborhood Modeling Methods
 
 This repository demonstrates how to model optical flow algorithms using multiple neighborhood processing methods and generate synthesizable pixel-based HDL code from frame-based models using MATLAB and Simulink tools. 
 
