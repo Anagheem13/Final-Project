@@ -23,8 +23,6 @@ In the model hdlFrame_OpticalFlow_LK_MLFB, a single MATLAB Function block contai
 ```matlab
 function flowVector  = opticalFlowForHDL_lk(I, Idelay)
 % Implements the Lucas Kanade method for optical flow
-%   Copyright 2021-2023 The MathWorks, Inc.
-% --- Function code as detailed above ---
 end
 💡 Key Steps:
 Open the Model:
